@@ -1,11 +1,11 @@
 #summary How to install the package.
 
-= Introduction =
+## Introduction
 
 neo-utils is a set of utility functions and classes to be used by any Python 
 application. It supports Python 2.5 and later (but not version 3).
 
-= Installation =
+## Installation
 
 The project contains only one package: neo_utils. The project is called 
 neo-utils and it contains the package neo_utils. It is neo_utils that must be 
@@ -17,4 +17,4 @@ installation. (I keep it in the Eclipse the workspace.)
 This package has no other dependency than Python itself.
 
 
-Project site: https://code.google.com/p/neo-utils/
+Project site: [https://github.com/Pierre-Thibault/neo-utils](https://github.com/Pierre-Thibault/neo-utils)
