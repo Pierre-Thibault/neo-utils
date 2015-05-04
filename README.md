@@ -16,5 +16,12 @@ installation. (I keep it in the Eclipse the workspace.)
 
 This package has no other dependency than Python itself.
 
+Comments or questions? [Join the user group](http://groups.google.com/group/neo-users)
+
+Author: Pierre Thibault (pierre.thibault1 -at- gmail.com)
+
+License: MIT
+
+Since: 2011-05-21
 
 Project site: [https://github.com/Pierre-Thibault/neo-utils](https://github.com/Pierre-Thibault/neo-utils)
